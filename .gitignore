@@ -9,3 +9,5 @@ jig-demo/jig-jre/
 jig-demo/\.classpath
 
 jig-demo/\.project
+
+vertx-demo/\.settings/
